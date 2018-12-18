@@ -1,0 +1,8 @@
+We are assuming the file is present here. File has the ability to check if a file exists at the specified
+filepath on the filesystem through File.exist? "event_attendees.csv".
+
+
+as a user
+in order to have data stored
+when i create instance
+then i have to store data
